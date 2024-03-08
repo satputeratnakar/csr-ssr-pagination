@@ -1,0 +1,16 @@
+# dependencies
+# Node JS
+/Node_JS/node_modules
+/Node_JS/package-lock.json
+
+
+# React JS
+
+/React_JS/package-lock.json
+/React_JS/node_modules
+
+# Next_JS
+
+/Next_JS/node_modules
+/Next_JS/.next
+/Next_JS/package-lock.json
